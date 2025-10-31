@@ -1,4 +1,4 @@
-# Google Apps Script Embed (Vite Static Site)
+# Vite Static Site
 
 This project demonstrates how to embed a Google Apps Script web app in a static site using Vite, with the script URL managed via a `.env` file for easy configuration.
 
